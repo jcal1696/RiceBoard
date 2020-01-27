@@ -25,7 +25,7 @@ I started this project on around January 19th, 2020 since I felt that there wasn
   
 ### Libraries
 * [ai03-2725's MX/Alps Hybrid Library](https://github.com/ai03-2725/MX_Alps_Hybrid)
-  I modified this to include a 4U-no-LED footprint
+  I modified this to include a 4U-no-LED footprint (footprint included in this repository, just add it to the folder)
 * [Hasu's tmk kicad library](https://github.com/tmk/kicad_lib_tmk)
   Includes the ATMEGA32U4 and crystal footprints
 
