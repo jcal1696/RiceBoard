@@ -7,7 +7,7 @@
 I haven't ordered the PCB to be assembled yet, but I will do so in the near future and test it out. Hopefully it'll be compatible with QMK but if not, I can write the code myself.
 
 ## Description
-I started this project on around January 19th, 2020 since I felt that there wasn't a keyboard PCB that truly suited my desires. I could've gone with something similar, but I felt that making this would both be fun and beneficial (since I'd be familiarizing myself with PCB design through EDA/ECAD software, namely, KiCAD). This is the first time I've designed a PCB, but by following several guides and using many resources found online, I hope I can design something that works, at least.
+I started this project since I felt that there wasn't a keyboard PCB that truly suited my desires. I could've gone with something similar, but I felt that making this would both be fun and beneficial (since I'd be familiarizing myself with PCB design through EDA/ECAD software, namely, KiCAD). This is the first time I've designed a PCB, but by following several guides and using many resources found online, I hope I can design something that works, at least.
 
 ### Guides
 * [ruiqimao's keyboard pcb guide](https://github.com/ruiqimao/keyboard-pcb-guide)
