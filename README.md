@@ -9,6 +9,8 @@ I haven't ordered the PCB to be assembled yet, but I will do so in the near futu
 ## Description
 I started this project since I felt that there wasn't a keyboard PCB that truly suited my desires. I could've gone with something similar, but I felt that making this would both be fun and beneficial (since I'd be familiarizing myself with PCB design through EDA/ECAD software, namely, KiCAD). This is the first time I've designed a PCB, but by following several guides and using many resources found online, I hope I can design something that works, at least.
 
+I designed the logo myself using Inkscape (I love rice).
+
 ### Guides
 * [ruiqimao's keyboard pcb guide](https://github.com/ruiqimao/keyboard-pcb-guide)
   Great for getting started, doesn't cover a full layout though, but will explain everything from beginning the design to getting it      manufactured
