@@ -28,3 +28,17 @@ I started this project on around January 19th, 2020 since I felt that there wasn
   I modified this to include a 4U-no-LED footprint
 * [Hasu's tmk kicad library](https://github.com/tmk/kicad_lib_tmk)
   Includes the ATMEGA32U4 and crystal footprints
+
+### PCB Previews and Schematics
+
+#### Schematic
+![Schematic](https://i.imgur.com/HgGTTTZ.png)
+
+#### PCB Layout
+![PCB](https://i.imgur.com/QR3Jyfj.png)
+
+#### 3D PCB Preview, Front
+![Front](https://i.imgur.com/WALSX5l.png)
+
+#### 3D PCB Preview, Back
+![Back](https://i.imgur.com/4Qi2tKb.png)
